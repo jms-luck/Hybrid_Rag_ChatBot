@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -55,3 +56,7 @@ temp*.pdf
 
 # NLTK data (if downloaded locally)
 nltk_data/
+=======
+.env
+code.ipynb
+>>>>>>> 5f6af2c282c9baada630aed082755e29836815be
