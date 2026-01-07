@@ -1,0 +1,12 @@
+rank-bm25
+nltk
+langchain
+streamlit
+langchain-community>=0.0.21
+langchain-openai>=0.0.5
+faiss-cpu
+pypdf
+pypdf
+openai
+sentence-transformers
+hf_xet
